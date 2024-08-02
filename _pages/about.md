@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Changhao Chenli(陈李昌豪). I’m currently an Assistant Professor of Cybersecurity at Indiana Institute of Technology.  final-year Ph.D. candidate in Prof. Taeho Jung‘s group at the Department of Computer Science and Engineering at the University of Notre Dame.
+Hi, my name is Changhao Chenli(陈李昌豪). I’m currently an Assistant Professor of Cybersecurity in the [Talwar College of Engineering and Computer Sciences](https://academics.indianatech.edu/talwar/) at [Indiana Institute of Technology](https://www.indianatech.edu). 
 
-[IT](https://google.com)
+I received my Ph.D. degree in [Computer Science and Engineering](https://cse.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/) under the supervision of [Professor Taeho Jung](https://sites.nd.edu/taeho-jung/) in 2024, and I received the M.E. and B.E. degrees at the [School of Information](http://info.ruc.edu.cn/) at the [Renmin University of China](http://www.ruc.edu.cn/) under the supervision of [Professor Bo Qin](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/fjs2/3e3cc02fc39a4abcb0c9777658ed528e.htm) in in 2018 and 2016, respectively.
 
-I received both my Master’s degree and Bachelor’s degree under the supervision of Prof. Bo Qin at the School of Information at the Renmin University of China in 2018 and 2016, respectively.
+My research interests include blockchain, secure provenance, secure data sharing, atomic exchange, data traceability and accountability.
 
-My research interests include blockchain, secure provenance, traceability, accountability, secure data sharing and atomic exchange.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
