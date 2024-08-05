@@ -29,13 +29,13 @@ My research interests include blockchain, secure provenance, secure data sharing
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 A paper accepted by BSS 2024. Changhao Chenli, Wenyi Tang, Shankha Shuhbra Mukherjee, Taeho Jung
+- *2024.06*: &nbsp;🎉🎉 A paper accepted by BSS 2024. **Changhao Chenli**, Wenyi Tang, Shankha Shuhbra Mukherjee, Taeho Jung
 “SCAFT: A Scalable Crowd-Assisted Fair Trading Protocol”
 3rd International Workshop on Blockchain Security and Scalability (BSS 2024) 
-- *2024.06*: &nbsp;🎉🎉 A paper accepted by IEEE Blockchain 2024. Wenyi Tang, Shankha Shuhbra Mukherjee, Seongho Park, Changhao Chenli, Hyunok Oh, Jihye Kim, Taeho Jung
+- *2024.06*: &nbsp;🎉🎉 A paper accepted by IEEE Blockchain 2024. Wenyi Tang, Shankha Shuhbra Mukherjee, Seongho Park, **Changhao Chenli**, Hyunok Oh, Jihye Kim, Taeho Jung
 “GrAC: Graph-Based Anonymous Credentials From Identity Graphs on Blockchain”
 7th IEEE International Conference on Blockchain (IEEE Blockchain 2024)
-- *2024.02*: &nbsp;🎉🎉 A paper accepted by IEEE TDSC. Changhao Chenli, Wenyi Tang, Hyeonbum Lee, Taeho Jung
+- *2024.02*: &nbsp;🎉🎉 A paper accepted by IEEE TDSC. **Changhao Chenli**, Wenyi Tang, Hyeonbum Lee, Taeho Jung
 “Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness”
 IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
 
@@ -56,9 +56,6 @@ IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 <!---
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
