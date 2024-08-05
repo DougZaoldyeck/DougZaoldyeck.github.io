@@ -32,7 +32,12 @@ My research interests include blockchain, secure provenance, secure data sharing
 - *2024.06*: &nbsp;🎉🎉 A paper accepted by BSS 2024. Changhao Chenli, Wenyi Tang, Shankha Shuhbra Mukherjee, Taeho Jung
 “SCAFT: A Scalable Crowd-Assisted Fair Trading Protocol”
 3rd International Workshop on Blockchain Security and Scalability (BSS 2024) 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 A paper accepted by IEEE Blockchain 2024. Wenyi Tang, Shankha Shuhbra Mukherjee, Seongho Park, Changhao Chenli, Hyunok Oh, Jihye Kim, Taeho Jung
+“GrAC: Graph-Based Anonymous Credentials From Identity Graphs on Blockchain”
+7th IEEE International Conference on Blockchain (IEEE Blockchain 2024)
+- *2024.02*: &nbsp;🎉🎉 A paper accepted by IEEE TDSC. Changhao Chenli, Wenyi Tang, Hyeonbum Lee, Taeho Jung
+“Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness”
+IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
 
 # 📝 Publications 
 
