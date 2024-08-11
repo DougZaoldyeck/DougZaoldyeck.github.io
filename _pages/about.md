@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
--->
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+-->
 
 Hi, my name is Changhao Chenli(陈李昌豪). I’m currently an Assistant Professor of Cybersecurity in the [Talwar College of Engineering and Computer Sciences](https://academics.indianatech.edu/talwar/) at [Indiana Institute of Technology](https://www.indianatech.edu). 
 
