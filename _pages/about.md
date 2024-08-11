@@ -39,8 +39,29 @@ My research interests include blockchain, secure provenance, secure data sharing
 “Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness”
 IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
 
-# 📝 Teaching
-CSE 60611
+# 📝 Teaching Experience
+## Indiana Tech
+### Introduction to Cybersecurity (CYS 1100)
+Fall 2024 (Evaluation: TBD)
+### Introduction to Computer Science (CS 1200)
+Fall 2024 (Evaluation: TBD)
+### Information Security and IT Governance (IS 5700)
+Fall 2024 (Evaluation: TBD)
+
+## Notre Dame
+### Cryptography (CSE 40622)
+Spring 2019 (TA)
+
+Fall 2020 (TA)
+
+Fall 2022 (Guest lecture)
+
+### Design/Analysis of Algorithms (CSE 40113)
+Fall 2018 (TA)
+
+Fall 2019 (TA, Won Outstanding TA award receipts for the 2019-2020 Academic Year)
+
+Spring 2022 (TA)
 
 <!---
 # 📝 Publications 
