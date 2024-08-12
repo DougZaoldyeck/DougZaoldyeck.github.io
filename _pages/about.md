@@ -39,6 +39,7 @@ My research interests include blockchain, secure provenance, secure data sharing
 “Fair2Trade: Digital Trading Platform Ensuring Exchange and Distribution Fairness”
 IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
 
+<!---
 # 📝 Teaching Experience
 ## Indiana Tech
 ### Introduction to Cybersecurity (CYS 1100)
@@ -63,7 +64,7 @@ Fall 2019 (TA, Won Outstanding TA award receipts for the 2019-2020 Academic Year
 
 Spring 2022 (TA)
 
-<!---
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
